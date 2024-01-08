@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Bryan 👋
+I am a Software Systems student at SFU.
 
 <!--
 **bryanjhdang/bryanjhdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

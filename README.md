@@ -1,6 +1,6 @@
 ### Hi, I'm Bryan 👋
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/bryanjhdang/), or shoot me an [email](mailto:bda37@sfu.ca).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/bryanjhdang/), or shoot me an [email](mailto:bda37@sfu.ca)!
 
 <!--
 **bryanjhdang/bryanjhdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

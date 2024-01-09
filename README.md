@@ -1,9 +1,7 @@
 ## Hi, I'm Bryan 👋
 I'm a Computer Science student at SFU, and a fledgling software developer that's into problem solving and making cool stuff. 
 
-### Connect with me
-- [LinkedIn](https://www.linkedin.com/in/bryanjhdang/)
-- [E-mail](mailto:bda37@sfu.ca)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bryanjhdang/) or shoot me an [email](mailto:bda37@sfu.ca).
 
 <!--
 **bryanjhdang/bryanjhdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

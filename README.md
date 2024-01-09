@@ -1,6 +1,9 @@
-### Hi, I'm Bryan 👋
+### Bryan Dang -- @bryanjhdang
+Hi, I'm Bryan -- a Computer Science student at SFU. I'm a fledgling software developer that likes solving my own personal issues by turning silly ideas into cool creations. 
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/bryanjhdang/), or shoot me an [email](mailto:bda37@sfu.ca)!
+### Conect with me
+- [LinkedIn](https://www.linkedin.com/in/bryanjhdang/)
+- [E-mail](mailto:bda37@sfu.ca).
 
 <!--
 **bryanjhdang/bryanjhdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

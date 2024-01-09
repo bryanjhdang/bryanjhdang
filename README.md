@@ -1,4 +1,4 @@
-### Hi, I'm Bryan 👋
+## Hi, I'm Bryan 👋
 I'm a Computer Science student at SFU, and a fledgling software developer that's into problem solving and making cool stuff. 
 
 ### Connect with me

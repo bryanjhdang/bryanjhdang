@@ -1,7 +1,7 @@
 ## Hi, I'm Bryan 👋
 I'm a Computer Science student at SFU, and a fledgling software developer that likes making cool stuff. 
 
-### Get in Touch
+## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/bryanjhdang/)
 - [Email](mailto:bda37@sfu.ca).
 

@@ -1,7 +1,7 @@
 ## Hi, I'm Bryan 👋
-I'm a Computer Science student at SFU, and a fledgling software developer that likes making cool stuff. I'm into all sorts of RPG / TTRPGs, video games, and constantly looking for fun things to work on! 
+I'm a Computer Science student at SFU, and a fledgling software developer that likes making cool stuff. I'm into all sorts of RPG / TTRPGs, video games, and constantly looking for fun things to work on.
 
-Feel free to check out my personal website to see what I'm up to.
+Check out my personal website to see what I'm up to!
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/bryanjhdang/)

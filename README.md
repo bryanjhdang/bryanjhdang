@@ -1,6 +1,6 @@
 > a lifelong learner and fun haver
 
-I'm a Computer Science student at SFU, and a fledgling software developer that likes making cool stuff. I'm into RPG/TTRPGs, video games, and constantly looking for fun things to work on.
+I'm a Software Systems student at SFU, and a fledgling software developer that likes making cool stuff. I'm into RPG/TTRPGs, video games, and constantly looking for fun things to work on.
 
 Check out my [personal website](https://bryanjhdang.github.io/quartz/) to see what I'm up to.
 

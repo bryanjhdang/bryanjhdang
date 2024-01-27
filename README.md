@@ -1,5 +1,3 @@
-> a lifelong learner and fun haver
-
 - [Website](https://bryanjhdang.github.io/quartz/)
 - [LinkedIn](https://www.linkedin.com/in/bryanjhdang/)
 - [Email](mailto:bda37@sfu.ca)

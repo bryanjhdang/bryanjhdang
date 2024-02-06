@@ -1,3 +1,14 @@
+```jgs
+        ______
+       /     /\
+      /     /  \
+     /_____/----\_    (  
+    "     "          ).  
+   _ ___          o (:') o   
+  (@))_))        o ~/~~\~ o   
+                  o  o  o
+```
+
 - [Website](https://bryanjhdang.github.io/quartz/)
 - [LinkedIn](https://www.linkedin.com/in/bryanjhdang/)
 - [Email](mailto:bda37@sfu.ca)

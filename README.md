@@ -10,9 +10,7 @@
 ```
 
 - [Website](https://bryanjhdang.github.io/quartz/)
-- [LinkedIn](https://www.linkedin.com/in/bryanjhdang/)
-- [Email](mailto:bda37@sfu.ca)
-
+  
 <!--
 **bryanjhdang/bryanjhdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

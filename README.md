@@ -8,7 +8,6 @@
   (@))_))        o ~/~~\~ o   
                   o  o  o
 ```
-[Website](https://bryanjhdang.github.io/quartz/)
   
 <!--
 **bryanjhdang/bryanjhdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
